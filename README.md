@@ -1,4 +1,3 @@
-# challenge_net_anderonGimenes_fitcard
 [FagronTech] - Challenge - { .net } 
 ===================
 
